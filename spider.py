@@ -1,7 +1,3 @@
-import re
-import time
-from typing import *
-
 from scrapy import Spider as ScrapySpider
 from scrapy.shell import inspect_response
 from scrapy.crawler import CrawlerProcess
